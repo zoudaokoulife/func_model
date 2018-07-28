@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zdk.test</groupId>
-    <artifactId>easy.redis</artifactId>
+    <artifactId>easy-kafka</artifactId>
 
 
 </project>
